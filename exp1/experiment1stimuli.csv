@@ -1,0 +1,65 @@
+intendedword,shownword,poem_number,poem_text,condition
+rest,others,a,"At speaking my mind,\n I'm one of the best.\n But get me upset\n and I'm bad as the ______.",AT
+rest,rest,a,"At speaking my mind,\n I'm one of the best.\n But get me upset\n and I'm bad as the ______.",IT
+rest,stressed,a,"At speaking my mind,\n I'm one of the best.\n But get me upset\n and I'm bad as the ______.",RHYME
+rest,cashier,a,"At speaking my mind,\n I'm one of the best.\n But get me upset\n and I'm bad as the ______.",FILLER
+hello,howdy,b,"Just a brown fellow\n who's not afraid of Jello.\n To the people of the world,\n I would like to say ______.",AT
+hello,hello,b,"Just a brown fellow\n who's not afraid of Jello.\n To the people of the world,\n I would like to say ______.",IT
+hello,mellow,b,"Just a brown fellow\n who's not afraid of Jello.\n To the people of the world,\n I would like to say ______.",RHYME
+hello,broker,b,"Just a brown fellow\n who's not afraid of Jello.\n To the people of the world,\n I would like to say ______.",FILLER
+feet,toes,c,"Pigs are not neat.\n When it comes to a treat,\n they do like to eat,\n with their hands and their ______.",AT
+feet,feet,c,"Pigs are not neat.\n When it comes to a treat,\n they do like to eat,\n with their hands and their ______.",IT
+feet,meat,c,"Pigs are not neat.\n When it comes to a treat,\n they do like to eat,\n with their hands and their ______.",RHYME
+feet,tangerines,c,"Pigs are not neat.\n When it comes to a treat,\n they do like to eat,\n with their hands and their ______.",FILLER
+red,yellow,d,"After work, I drive back home\n feeling dead,\n only for the traffic signals to be ______.",AT
+red,red,d,"After work, I drive back home\n feeling dead,\n only for the traffic signals to be ______.",IT
+red,wed,d,"After work, I drive back home\n feeling dead,\n only for the traffic signals to be ______.",RHYME
+red,insane,d,"After work, I drive back home\n feeling dead,\n only for the traffic signals to be ______.",FILLER
+kiss,lecture,e,There once was a farmer\n who took a young miss\n in back of the barn\n where he gave her a ______.,AT
+kiss,kiss,e,There once was a farmer\n who took a young miss\n in back of the barn\n where he gave her a ______.,IT
+kiss,hiss,e,There once was a farmer\n who took a young miss\n in back of the barn\n where he gave her a ______.,RHYME
+kiss,cabinet,e,There once was a farmer\n who took a young miss\n in back of the barn\n where he gave her a ______.,FILLER
+not,fake,f,"There in the village\n that time forgot,\n one is real\n the other's ______.",AT
+not,not,f,"There in the village\n that time forgot,\n one is real\n the other's ______.",IT
+not,hot,f,"There in the village\n that time forgot,\n one is real\n the other's ______.",RHYME
+not,sedated,f,"There in the village\n that time forgot,\n one is real\n the other's ______.",FILLER
+blue,orange,g,My favorite color's green:\n of that I'm sure is true.\n My son prefers the color red\n but he despises ______.,AT
+blue,blue,g,My favorite color's green:\n of that I'm sure is true.\n My son prefers the color red\n but he despises ______.,IT
+blue,glue,g,My favorite color's green:\n of that I'm sure is true.\n My son prefers the color red\n but he despises ______.,RHYME
+blue,monopolies,g,My favorite color's green:\n of that I'm sure is true.\n My son prefers the color red\n but he despises ______.,FILLER
+top,ceiling,h,"However you try\n you can't ever stop,\n when you start from the bottom\n you aim for the ______.",AT
+top,top,h,"However you try\n you can't ever stop,\n when you start from the bottom\n you aim for the ______.",IT
+top,cop,h,"However you try\n you can't ever stop,\n when you start from the bottom\n you aim for the ______.",RHYME
+top,monkey,h,"However you try\n you can't ever stop,\n when you start from the bottom\n you aim for the ______.",FILLER
+pool,creek,h,"People say that\n summer's never cool,\n but when I'm hot\n I jump inside a ______.",AT
+pool,pool,h,"People say that\n summer's never cool,\n but when I'm hot\n I jump inside a ______.",IT
+pool,school,h,"People say that\n summer's never cool,\n but when I'm hot\n I jump inside a ______.",RHYME
+pool,laundromat,h,"People say that\n summer's never cool,\n but when I'm hot\n I jump inside a ______.",FILLER
+spent,allocated,i,"I work all day\n to pay the rent,\n before the money's earned\n it's all been ______.",AT
+spent,spent,i,"I work all day\n to pay the rent,\n before the money's earned\n it's all been ______.",IT
+spent,bent,i,"I work all day\n to pay the rent,\n before the money's earned\n it's all been ______.",RHYME
+spent,kissed,i,"I work all day\n to pay the rent,\n before the money's earned\n it's all been ______.",FILLER
+right,perfect,j,"The poems I write\n are a real delight,\n so please be polite\n when the rhyme is not ______.",AT
+right,right,j,"The poems I write\n are a real delight,\n so please be polite\n when the rhyme is not ______.",IT
+right,white,j,"The poems I write\n are a real delight,\n so please be polite\n when the rhyme is not ______.",RHYME
+right,heavy,j,"The poems I write\n are a real delight,\n so please be polite\n when the rhyme is not ______.",FILLER
+rose,zinnia,k,"The elephant's nose\n looked like a hose.\n In the garden, he chose\n to pick a red ______.",AT
+rose,rose,k,"The elephant's nose\n looked like a hose.\n In the garden, he chose\n to pick a red ______.",IT
+rose,nose,k,"The elephant's nose\n looked like a hose.\n In the garden, he chose\n to pick a red ______.",RHYME
+rose,printer,k,"The elephant's nose\n looked like a hose.\n In the garden, he chose\n to pick a red ______.",FILLER
+floor,basement,l,"It's my pleasure to give you a tour,\n though I hope you don't make me do more,\n as there is only so much to explore,\n from the ceiling to the ______.",AT
+floor,floor,l,"It's my pleasure to give you a tour,\n though I hope you don't make me do more,\n as there is only so much to explore,\n from the ceiling to the ______.",IT
+floor,oar,l,"It's my pleasure to give you a tour,\n though I hope you don't make me do more,\n as there is only so much to explore,\n from the ceiling to the ______.",RHYME
+floor,taranatula,l,"It's my pleasure to give you a tour,\n though I hope you don't make me do more,\n as there is only so much to explore,\n from the ceiling to the ______.",FILLER
+rice,cornbread,m,"I'd quickly learn the system,\n start giving good advice.\n I'd drink a barrel of whiskey,\n and I'd eat my beans with ______.",AT
+rice,rice,m,"I'd quickly learn the system,\n start giving good advice.\n I'd drink a barrel of whiskey,\n and I'd eat my beans with ______.",IT
+rice,mice,m,"I'd quickly learn the system,\n start giving good advice.\n I'd drink a barrel of whiskey,\n and I'd eat my beans with ______.",RHYME
+rice,juveniles,m,"I'd quickly learn the system,\n start giving good advice.\n I'd drink a barrel of whiskey,\n and I'd eat my beans with ______.",FILLER
+cop,taxi,n,"The girl told the farmer\n that he'd better stop,\n and she called her father,\n and he called a ______.",AT
+cop,cop,n,"The girl told the farmer\n that he'd better stop,\n and she called her father,\n and he called a ______.",IT
+cop,shop,n,"The girl told the farmer\n that he'd better stop,\n and she called her father,\n and he called a ______.",RHYME
+cop,bird,n,"The girl told the farmer\n that he'd better stop,\n and she called her father,\n and he called a ______.",FILLER
+bland,terrible,o,"I'm missing the dinners\n from mom, they were grand,\n since all of the food\n in this place is so ______.",AT
+bland,bland,o,"I'm missing the dinners\n from mom, they were grand,\n since all of the food\n in this place is so ______.",IT
+bland,planned,o,"I'm missing the dinners\n from mom, they were grand,\n since all of the food\n in this place is so ______.",RHYME
+bland,maroon,o,"I'm missing the dinners\n from mom, they were grand,\n since all of the food\n in this place is so ______.",FILLER

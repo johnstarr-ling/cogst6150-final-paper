@@ -1,0 +1,5 @@
+Condition,decision,Selection Rate
+AT,Accept,0.9375
+FILLER,Accept,0.0625
+IT,Accept,1.0
+RHYME,Accept,0.4166666666666667
